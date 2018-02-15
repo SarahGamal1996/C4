@@ -4,9 +4,7 @@
 
     Team C4
     Ahmed Ashraf Mahmoud 34-8297
-    Name
-    Name
-    Namess
+
 
     ABOUT US
     Sarah Gamal , 22 years old , I speak french, english , arabic and a bit spanish, crossfit.
