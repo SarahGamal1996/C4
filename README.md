@@ -11,7 +11,7 @@
     ABOUT US
     Sarah Gamal , 22 years old , I speak french, english , arabic and a bit spanish, crossfit.
     Ahmed Saleh , 21 years old, football and freediving.
-    Ebraam Yowakeem, 21 years old, from El Menia, Oud.
+    Ebram Yowakem, 21 years old, from El Menia, Oud.
 
 
 This a repository examining our capabilities on using github commands while having a large team committing at the same period
