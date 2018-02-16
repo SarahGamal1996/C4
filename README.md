@@ -11,7 +11,7 @@
     ABOUT US
     as we are C4 team we decided to be an actual C4 , booming everywhere and each commit we do acts like a boom
     Sarah Gamal , 22 years old , I speak french, english , arabic and a bit spanish and crossfit.
-    Ahmed Saleh , 21 years old, plays football, loves freediving and reading.
+    Ahmed Saleh , 21 years old, plays football, loves freediving.
     Ebram Yowakem, 21 years old, from El Menia, plays Oud.
     Ahmed Hany, 20 years old, I love writing and designing
     Ahmed Ashraf [Pavelnas] , 22 years old , Manchester united forever after
