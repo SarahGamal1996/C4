@@ -4,13 +4,15 @@
     Ahmed Ashraf Mahmoud 34-8297
     Ahmed Hany Sayed 37-14121
     Ahmed Alaa Saleh 37-9714
+    Sarah Gamal 37-4019
+    Ebram Yowakem 37-19502
 
 
     ABOUT US
     as we are C4 team we decided to be an actual C4 , booming everywhere and each commit we do acts like a boom
-    Sarah Gamal , 22 years old , I speak french, english , arabic and a bit spanish, crossfit.
-    Ahmed Saleh , 21 years old, football and freediving.
-    Ebram Yowakem, 21 years old, from El Menia, Oud.
+    Sarah Gamal , 22 years old , I speak french, english , arabic and a bit spanish and crossfit.
+    Ahmed Saleh , 21 years old, plays football, loves freediving and reading.
+    Ebram Yowakem, 21 years old, from El Menia, plays Oud.
     Ahmed Hany, 20 years old, I love writing and designing
     Ahmed Ashraf [Pavelnas] , 22 years old , Manchester united forever after
     what for our next attack
