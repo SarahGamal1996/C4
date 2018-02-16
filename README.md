@@ -1,7 +1,11 @@
 <h1>BOMB Squad</h1> <br/>
 <img align="center" src="c4_logos.png" />
 
-  
+  Ahmed Ashraf Mahmoud 34-8297
+  Ahmed Hany Sayed 37-14121
+  Ahmed Alaa Saleh 37-9714
+  Sarah Gamal 37-4019
+  Ebram Yowakem 37-19502
 
     ABOUT US
     as we are C4 team we decided to be an actual C4 , booming everywhere and each commit we do acts like a boom
