@@ -1,5 +1,5 @@
 <h1>BOMB Squad</h1> <br/>
-<img align="right" src="Layer_1.png" />
+<img align="right" src="c4_logos.png" />
 
     Ahmed Ashraf Mahmoud 34-8297
     Ahmed Hany Sayed 37-14121
